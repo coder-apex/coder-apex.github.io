@@ -1,0 +1,39 @@
+.footer{
+  background-color: #209cee;
+  color: rgb(214, 214, 214);
+  padding-bottom: 1.5em;
+}
+
+.footer h1{
+  color: rgb(214, 214, 214);
+}
+
+.column img{
+  width: 99%;
+}
+
+.secondary-section{
+  background-color: rgb(50, 95, 161);
+  color: oldlace;
+}
+
+.secondary-section .is-2{
+  color: oldlace;
+}
+
+.gray-section{
+  background-color: rgb(167, 167, 167);
+  color: rgb(68, 68, 68);
+}
+
+.columns.is-vcentered {
+  -webkit-box-align: center;
+     -ms-flex-align: center;
+        align-items: center;
+}
+
+.is-vcentered {
+  -webkit-box-align: center;
+     -ms-flex-align: center;
+        align-items: center;
+}
